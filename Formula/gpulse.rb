@@ -7,7 +7,7 @@ class Gpulse < Formula
   on_macos do
     if Hardware::CPU.arm?
       url "https://github.com/gpulseai/gpulse/releases/download/v2.2.0/gpulse-v2.2.0-darwin-arm64.tar.gz"
-      sha256 "c0264a1c5d8cc3373d490b4fdabbe96397cfbb3cae8cd85d675c653e1d06251e"
+      sha256 "e5008b0a66b4c7bc7fb8949fb30e847b466738c4c34cab36e840708805232156"
     end
   end
 
